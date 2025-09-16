@@ -1,0 +1,39 @@
+h1{
+    text-align: center
+    
+}
+img{
+    text-align: center;
+}
+body{
+    background-color: rgb(54, 85, 113);
+}
+
+table{
+    width: 90%;
+    border: 1px solid #000;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+}
+th,td{
+    border: 1px solid #000000;
+    width: 15%;
+    color: white;
+}
+td{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+th{
+    background-color: coral;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.h1{
+    
+}
+
+
